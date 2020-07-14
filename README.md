@@ -8,10 +8,10 @@ Hi, I am Ayush Gupta 👋
 - I often share my thoughts and learnings on my [blog](https://blog.ayushgupta.tech).
 
 Connect with me on: 
-[![](https://user-images.githubusercontent.com/21218732/87395145-83990580-c5ce-11ea-97a8-0c99f0e7785a.png)](http://example.net/)
-[![](https://user-images.githubusercontent.com/21218732/87394778-d920e280-c5cd-11ea-9ce1-3e22a83ccb0f.png)](http://example.net/)
-[![](https://user-images.githubusercontent.com/21218732/87395471-133eb400-c5cf-11ea-9d43-244e0aa56e1b.png)](http://example.net/)
-[![](https://user-images.githubusercontent.com/21218732/87395325-cfe44580-c5ce-11ea-97ab-fc65d081bbd0.png)](http://example.net/)
+[![](https://user-images.githubusercontent.com/21218732/87395145-83990580-c5ce-11ea-97a8-0c99f0e7785a.png)](https://twitter.com/_guptaji_)
+[![](https://user-images.githubusercontent.com/21218732/87394778-d920e280-c5cd-11ea-9ce1-3e22a83ccb0f.png)](https://www.instagram.com/_.guptaji._/)
+[![](https://user-images.githubusercontent.com/21218732/87395471-133eb400-c5cf-11ea-9d43-244e0aa56e1b.png)](https://medium.com/@guptaji)
+[![](https://user-images.githubusercontent.com/21218732/87395325-cfe44580-c5ce-11ea-97ab-fc65d081bbd0.png)](https://www.linkedin.com/in/guptaji6/)
 
 <!--
 **gupta-ji6/gupta-ji6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
