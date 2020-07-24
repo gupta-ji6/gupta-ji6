@@ -4,7 +4,7 @@
 
 👋 Hi, I am Ayush Gupta
 
-*React Natve Developer at FirstCry*
+*React Native Developer at FirstCry*
 
 - I [`build`](https://ayushgupta.tech/#projects) things for the web and mobile.
 - I'm a passionate [`mobile photographer`](https://instagram.com/_.guptaji._).
