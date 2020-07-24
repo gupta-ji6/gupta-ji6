@@ -1,11 +1,15 @@
+<img align="right" src="https://user-images.githubusercontent.com/21218732/88373110-d768d300-cdb4-11ea-82f9-67514bd63347.png" alt="Personaised GitHub Octocat of Ayush Gupta" width=300px height=300px/>
+
 ### Namaste, World! 🙏
 
-Hi, I am Ayush Gupta 👋
+👋 Hi, I am Ayush Gupta
 
-- I [build](https://ayushgupta.tech/#projects) things for the web and mobile.
-- I'm a passionate [mobile photographer](https://instagram.com/_.guptaji._).
+*React Natve Developer at FirstCry*
+
+- I [`build`](https://ayushgupta.tech/#projects) things for the web and mobile.
+- I'm a passionate [`mobile photographer`](https://instagram.com/_.guptaji._).
 - I have keen interest in designing, despite being a developer.
-- I often share my thoughts and learnings on my [blog](https://blog.ayushgupta.tech).
+- I often share my thoughts and learnings on my [`blog`](https://blog.ayushgupta.tech).
 
 Connect with me on: 
 [![](https://user-images.githubusercontent.com/21218732/87395145-83990580-c5ce-11ea-97a8-0c99f0e7785a.png)](https://twitter.com/_guptaji_)
