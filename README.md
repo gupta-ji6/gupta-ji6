@@ -1,21 +1,23 @@
-<img align="right" src="https://user-images.githubusercontent.com/21218732/88373110-d768d300-cdb4-11ea-82f9-67514bd63347.png" alt="Personaised GitHub Octocat of Ayush Gupta" width=300px height=300px/>
+<img align="right" src="https://user-images.githubusercontent.com/21218732/108165714-05c74a80-7119-11eb-9a61-2963220f99de.png" alt="Personaised GitHub Octocat of Ayush Gupta" width=300px height=300px/>
 
 ### Namaste, World! 🙏
 
 👋 Hi, I am Ayush Gupta
 
-*React Native Developer at FirstCry*
+*React & React Native Developer at FirstCry*
 
 - I [`build`](https://ayushgupta.tech/#projects) things for the web and mobile.
 - I'm a passionate [`mobile photographer`](https://instagram.com/_.guptaji._).
 - I have keen interest in designing, despite being a developer.
-- I often share my thoughts and learnings on my [`blog`](https://blog.ayushgupta.tech).
+- I often share my thoughts and learnings on my [`blog`](https://ayushgupta.tech/blog).
 
-Connect with me on: 
-[![](https://user-images.githubusercontent.com/21218732/87395145-83990580-c5ce-11ea-97a8-0c99f0e7785a.png)](https://twitter.com/_guptaji_)
-[![](https://user-images.githubusercontent.com/21218732/87394778-d920e280-c5cd-11ea-9ce1-3e22a83ccb0f.png)](https://www.instagram.com/_.guptaji._/)
-[![](https://user-images.githubusercontent.com/21218732/87395471-133eb400-c5cf-11ea-9d43-244e0aa56e1b.png)](https://medium.com/@guptaji)
-[![](https://user-images.githubusercontent.com/21218732/87395325-cfe44580-c5ce-11ea-97ab-fc65d081bbd0.png)](https://www.linkedin.com/in/guptaji6/)
+---
+
+[![](https://user-images.githubusercontent.com/21218732/108168744-d0712b80-711d-11eb-8c6a-e9f6a3206b92.png)](https://ayushgupta.tech)
+[![](https://user-images.githubusercontent.com/21218732/108166682-876ba800-711a-11eb-940e-5fa7f9e04f21.png)](https://twitter.com/_guptaji_)
+[![](https://user-images.githubusercontent.com/21218732/108167205-56d83e00-711b-11eb-9939-ab45e4395626.png)](https://www.instagram.com/_.guptaji._/)
+[![](https://user-images.githubusercontent.com/21218732/108168454-580a6a80-711d-11eb-9f06-fb63ae3c042d.png)](https://medium.com/@guptaji)
+[![](https://user-images.githubusercontent.com/21218732/108167320-825b2880-711b-11eb-9e09-304c0fec9d00.png)](https://www.linkedin.com/in/guptaji6/)
 
 <!--
 **gupta-ji6/gupta-ji6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
