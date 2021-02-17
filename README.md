@@ -1,6 +1,7 @@
-<img align="right" src="https://user-images.githubusercontent.com/21218732/108165714-05c74a80-7119-11eb-9a61-2963220f99de.png" alt="Personaised GitHub Octocat of Ayush Gupta" width=300px height=300px/>
+## Namaste, World! 🙏
 
-### Namaste, World! 🙏
+<a href="https://ayushgupta.tech" target="_blank" rel="noreferrer"><img align="right" src="https://user-images.githubusercontent.com/21218732/108165714-05c74a80-7119-11eb-9a61-2963220f99de.png" alt="Personaised GitHub Octocat of Ayush Gupta" width=300px height=300px/>
+</a>
 
 👋 Hi, I am Ayush Gupta
 
@@ -13,11 +14,11 @@
 
 ---
 
-[![](https://user-images.githubusercontent.com/21218732/108168744-d0712b80-711d-11eb-8c6a-e9f6a3206b92.png)](https://ayushgupta.tech)
-[![](https://user-images.githubusercontent.com/21218732/108166682-876ba800-711a-11eb-940e-5fa7f9e04f21.png)](https://twitter.com/_guptaji_)
-[![](https://user-images.githubusercontent.com/21218732/108167205-56d83e00-711b-11eb-9939-ab45e4395626.png)](https://www.instagram.com/_.guptaji._/)
-[![](https://user-images.githubusercontent.com/21218732/108168454-580a6a80-711d-11eb-9f06-fb63ae3c042d.png)](https://medium.com/@guptaji)
-[![](https://user-images.githubusercontent.com/21218732/108167320-825b2880-711b-11eb-9e09-304c0fec9d00.png)](https://www.linkedin.com/in/guptaji6/)
+[![](https://user-images.githubusercontent.com/21218732/108171128-12e83780-7121-11eb-9c43-ed5a8cdfe1fa.png)](https://ayushgupta.tech)
+[![](https://user-images.githubusercontent.com/21218732/108171206-30b59c80-7121-11eb-9047-e654986f459f.png)](https://twitter.com/_guptaji_)
+[![](https://user-images.githubusercontent.com/21218732/108171283-4c20a780-7121-11eb-9904-883c701c3824.png)](https://www.instagram.com/_.guptaji._/)
+[![](https://user-images.githubusercontent.com/21218732/108171336-622e6800-7121-11eb-8a30-b436f29077a4.png)](https://medium.com/@guptaji)
+[![](https://user-images.githubusercontent.com/21218732/108171405-796d5580-7121-11eb-8ab2-8d78efb29082.png)](https://www.linkedin.com/in/guptaji6/)
 
 <!--
 **gupta-ji6/gupta-ji6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
