@@ -8,7 +8,7 @@
 *React & React Native Developer at FirstCry*
 
 - I [`build`](https://ayushgupta.tech/#projects) things for the web and mobile.
-- I'm a passionate [`mobile photographer`](https://instagram.com/_.guptaji._).
+- I'm a passionate [`photographer`](https://instagram.com/_.guptaji._).
 - I have keen interest in designing, despite being a developer.
 - I often share my thoughts and learnings on my [`blog`](https://ayushgupta.tech/blog).
 
