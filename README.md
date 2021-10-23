@@ -3,9 +3,9 @@
 <a href="https://ayushgupta.tech" target="_blank" rel="noreferrer"><img align="right" src="https://user-images.githubusercontent.com/21218732/108165714-05c74a80-7119-11eb-9a61-2963220f99de.png" alt="Personaised GitHub Octocat of Ayush Gupta" width=300px height=300px/>
 </a>
 
-👋 Hi, I am Ayush Gupta
+👋 Heyo, I am Ayush Gupta.
 
-*React & React Native Developer at FirstCry*
+*Mobile Frontend Engineer at [Razorpay](https://razorpay.com)*
 
 - I [`build`](https://ayushgupta.tech/#projects) things for the web and mobile.
 - I'm a passionate [`photographer`](https://instagram.com/_.guptaji._).
