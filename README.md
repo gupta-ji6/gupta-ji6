@@ -3,14 +3,12 @@
 <a href="https://ayushgupta.tech" target="_blank" rel="noreferrer"><img align="right" src="https://user-images.githubusercontent.com/21218732/108165714-05c74a80-7119-11eb-9a61-2963220f99de.png" alt="Personaised GitHub Octocat of Ayush Gupta" width=300px height=300px/>
 </a>
 
-👋 Heyo, I am Ayush Gupta.
+I am Ayush Gupta, a frontend engineer crafting & building cross-platform mobile apps.
 
-*Mobile Apps & Frontend Engineering*
-
-- I [`build`](https://ayushgupta.tech/#projects) things for the web and mobile.
-- I'm a passionate [`photographer`](https://instagram.com/_.guptaji._).
-- I have keen interest in designing, despite being a developer.
-- I often share my thoughts and learnings on my [`blog`](https://ayushgupta.tech/blog).
+- 🛠️ I [`build`](https://ayushgupta.tech/#projects) things for the web and mobile.
+- 🎞️ I'm a passionate [`photographer`](https://instagram.com/_.guptaji._).
+- ✨ I have an eye for design, and I sweat out those micro details in development.
+- ✍️ I often share my thoughts and learnings on my [`blog`](https://ayushgupta.tech/blog).
 
 ---
 
