@@ -5,7 +5,7 @@
 
 👋 Heyo, I am Ayush Gupta.
 
-*Senior Frontend Engineer at [Razorpay](https://razorpay.com)*
+*Mobile Apps & Frontend Engineering*
 
 - I [`build`](https://ayushgupta.tech/#projects) things for the web and mobile.
 - I'm a passionate [`photographer`](https://instagram.com/_.guptaji._).
